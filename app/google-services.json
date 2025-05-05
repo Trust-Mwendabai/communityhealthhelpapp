@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281675431898",
+    "project_id": "communityhealthhelper-18804",
+    "storage_bucket": "communityhealthhelper-18804.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281675431898:android:b680108e33ab05f6508ae3",
+        "android_client_info": {
+          "package_name": "com.example.communityhealthyhelper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzmXVhDmkWrxNxX2gka33llP2BxtggD_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

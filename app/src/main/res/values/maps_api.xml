@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Placeholder Google Maps API key -->
+    <!-- You should replace this with your actual API key from the Google Cloud Console -->
+    <!-- Visit https://console.cloud.google.com/ to get your API key -->
+    <string name="google_maps_api_key">AIzaSyBKROWik6jvv-dI52HWE8ds_mA7clZkQ-Q</string>
+</resources>
